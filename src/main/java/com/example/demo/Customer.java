@@ -3,9 +3,9 @@ package com.example.demo;
 import lombok.Data;
 
 @Data
-public class Cliente {
+public class Customer {
 	
 	private Integer id;
-	private String nome;
+	private String name;
 
 }
